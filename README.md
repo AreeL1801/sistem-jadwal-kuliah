@@ -51,24 +51,3 @@ Setelah Expo terbuka, pilih salah satu opsi berikut:
 ```bash
 npm run typecheck
 ```
-
-## Catatan GitHub
-
-Repository ini disiapkan agar bisa dikumpulkan sebagai link GitHub. Remote Git
-tidak diarahkan ke akun `syronesdreamland`.
-
-Jika repository teman sudah dibuat, gunakan:
-
-```bash
-git add .
-git commit -m "Initial course schedule app"
-git remote add origin <link-repository-teman>
-git branch -M main
-git push -u origin main
-```
-
-Ganti `<link-repository-teman>` dengan URL repository milik teman atau akun
-netral yang akan dipakai untuk pengumpulan.
-
-Jika Git meminta identitas commit, isi dengan nama dan email teman yang akan
-mengumpulkan tugas, bukan akun `syronesdreamland`.
